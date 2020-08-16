@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,20 @@ subtitle = ""
  css_class = ""
 +++
 
+## **Projects I Worked On**
+
+### [Gallifrey: The Geodistributed Programming Language](http://www.cs.cornell.edu/~milano/publication/gallifrey/)
+
+### [Scenic: A Scenario Description Language](https://scenic-lang.readthedocs.io/en/latest/)
+
+### [Skyhook: Programmable Storage for Databases](https://sites.google.com/view/skyhook-programmable-storage)
+
+## **Personal Projects**
+
+### SDSL 
+
+### OS
+
+### Go-DKVS 
+
+### HTTP Server 

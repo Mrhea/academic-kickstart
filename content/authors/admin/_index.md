@@ -23,12 +23,13 @@ bio: My research interests include programming languages and distributed systems
 interests:
 - Programming Languages
 - Distributed Systems
+- Formal Verification
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
+education:
+  courses:
+  - course: Bachelors of Science, Computer Science
+    institution: University of California, Santa Cruz
+    year: 2020
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
@@ -54,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Mrhea
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matthew-rhea-097029102/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -70,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Matthew Rhea is a software developer and research assistant with the Center for Research in Open Source Systems and Formal Method lab at the Baskin School of Engineering. His research interested in programming languages and distributed systems. He is currently working on building client-layer applications for the Skyhook data management system, and implementing support for 3D geometry in the probabilistic programming language Scenic.
+I am a computer scientist, software developer, and researcher living the the California Bay Area. I work as a research assistant at the Baskin School of Engineering, and a software developer at the Center for Research in Open Source Software. My researched interests span programming lanuages, distributed systems, and formal verification. Currently I am working on building client-layer applications for the Skyhook data management system, and implementing support for 3D geometry in the probabilistic programming langauge Scenic. 

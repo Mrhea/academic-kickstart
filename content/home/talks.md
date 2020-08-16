@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
@@ -68,3 +68,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+###  KLEE: Unassisted and Automatic Generation of High-coverage Tests for Complex Systems Programs
+Presented on KLEE for Lindsey Kuper's [graduate course](http://composition.al/CSE290Q-2019-09/) on Solver-Aided Programming Languages and Systems. 
+
+### Constraints as Control 
+Presented on Kaplan for Lindsey Kuper's [graduate course](http://composition.al/CSE290Q-2019-09/) on Kaplan, and extension of the Scala programming language that builds on top of Z3. 
