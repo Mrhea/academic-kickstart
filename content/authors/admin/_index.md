@@ -74,4 +74,9 @@ user_groups:
 - Visitors
 ---
 
+
+{{% alert note %}}
+This homepage is currently under construction!
+{{% /alert %}}
+
 I am a computer scientist, software developer, and researcher living the the California Bay Area. I work as a research assistant at the Baskin School of Engineering, and a software developer at the Center for Research in Open Source Software. My researched interests span programming lanuages, distributed systems, and formal verification. Currently I am working on building client-layer applications for the Skyhook data management system, and implementing support for 3D geometry in the probabilistic programming langauge Scenic. 
